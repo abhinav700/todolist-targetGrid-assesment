@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+
+https://github.com/user-attachments/assets/85ac8074-0dce-479b-899a-47d6e8c903fc
+
+
+## Setting up development Server
 1. Setting up the environment variables
 
     * Copy the `.env.example` into a new `.env`file
@@ -16,7 +19,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* Live Application is deployed [here](https://todolist-techgrid-assesment.vercel.app/)
 
 
 
