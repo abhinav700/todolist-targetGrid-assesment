@@ -20,7 +20,7 @@ npm run dev
 ```
 
 * Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-* Live Application is deployed [here](https://todolist-techgrid-assesment.vercel.app/)
+* Live Application is deployed [here](https://todolist-targetgrid-assesment.vercel.app/)
 
 
 
